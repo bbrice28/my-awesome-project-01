@@ -1,2 +1,2 @@
 # my-awesome-project-01 
-test clone push pull
+test clone push pull 
